@@ -1,0 +1,49 @@
+body{
+  background: url("../images/aboutMeBackGround.jpg") no-repeat center top;
+}
+.menu ul li{
+display: inline-block;
+list-style: none;
+padding: 10px;
+
+}
+.menu a{
+  text-decoration: none;
+  color: white;
+}
+.menu a:hover{
+  color: lime;
+}
+.title{
+  background-color: white;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10%;
+  font-size: 20px;
+  border-style: inset;
+  text-align: center;
+}
+.aboutMe{
+  background-color: white;
+  color: black;
+  padding: 1px 10px 1px 10px;
+  font-size: 20px;
+  width: 50%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  border-style: inset;
+  float: left;
+  margin-left: 16%;
+
+}
+.imgMe{
+
+  float: right;
+  margin-right: 16%;
+  height: 410px;
+}
+.footer{
+  margin-top: 42%;
+text-align: center;
+border-style: inset;
+background-color: white;
+}

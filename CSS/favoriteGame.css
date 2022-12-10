@@ -1,0 +1,78 @@
+body{
+  background-color: white;
+}
+.menu ul li{
+display: inline-block;
+list-style: none;
+padding: 10px;
+
+}
+.menu a{
+  text-decoration: none;
+  color: black;
+}
+.menu a:hover{
+  color: orange;
+}
+.title{
+  background-color: lightslategray;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 3%;
+  font-size: 20px;
+  border-style: inset;
+  text-align: center;
+}
+.Overwatch{
+
+  background-color: orange;
+  border-style: inset;
+  padding: 10px 10px 10px 10px;
+    width: 50%;
+    margin-left: 10%;
+    font-size: 120%;
+
+}
+.logo img{
+
+  float: right;
+  margin-left: 40%;
+  height: 300px;
+  width: 370px;
+}
+.Roles{
+  background-color: orange;
+  border-style: inset;
+  padding: 10px 10px 10px 10px;
+    width: 50%;
+    margin-left: 10%;
+
+}
+.heros img{
+  float: right;
+  margin-left: 40%;
+  height: 318px;
+  width: 370px;
+
+}
+.gamemods{
+  background-color: orange;
+  border-style: inset;
+  padding: 10px 10px 10px 10px;
+    width: 50%;
+    margin-left: 10%;
+
+
+}
+.mod img{
+  float: right;
+  margin-left: 40%;
+  height: 500px;
+  width: 370px;
+
+}
+.footer{
+margin-top: 1%;
+text-align: center;
+border-style: inset;
+background-color: lightslategray;
+}

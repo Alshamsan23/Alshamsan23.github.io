@@ -1,0 +1,101 @@
+body{
+
+  background: url("../images/controller.jpg") no-repeat right top;
+}
+h1{
+  color: black;
+  text-align: center;
+}
+.menu ul li{
+display: inline-block;
+list-style: none;
+padding: 10px;
+
+}
+.menu a{
+  text-decoration: none;
+  color: white;
+}
+.menu a:hover{
+  color: blue;
+}
+.title{
+  background-color: white;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10%;
+  font-size: 20px;
+  border-style: inset;
+
+}
+img
+{
+  float: right;
+  margin-right: 7%;
+  height: 410px;
+}
+.aboutMe{
+  background-color: white;
+  color: black;
+  padding: 1px 10px 1px 10px;
+  font-size: 20px;
+  width: 50%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  border-style: inset;
+  float: left;
+}
+
+.aboutMe a
+{
+  text-decoration: none;
+  color: black;
+}
+.aboutMe a:hover
+{
+  color: blue;
+}
+
+.favoriteGame{
+  background-color: white;
+  color: black;
+  padding: 1px 10px 1px 10px;
+  font-size: 20px;
+  width: 50%;
+  text-align: center;
+  margin-left: 10%;
+  border-style: inset;
+  margin-bottom: 5%;
+  float: left;
+}
+.favoriteGame a{
+  text-decoration: none;
+  color: black;
+}
+.favoriteGame a:hover{
+  color: blue;
+}
+.mySetup{
+  background-color: white;
+  color: black;
+  padding: 1px 10px 1px 10px;
+  font-size: 20px;
+  width: 50%;
+  text-align: center;
+  margin-left: 10%;
+  border-style: inset;
+  margin-bottom: 5%;
+  float: left;
+}
+.mySetup a{
+  text-decoration: none;
+  color: black;
+}
+.mySetup a:hover{
+  color: blue;
+}
+.footer{
+  margin-top: 45%;
+text-align: center;
+border-style: inset;
+background-color: white;
+}

@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+}
+.menu ul li{
+display: inline-block;
+list-style: none;
+padding: 10px;
+
+}
+.menu a{
+  text-decoration: none;
+  color: purple;
+}
+.menu a:hover{
+  color: white;
+}
+.title{
+  background-color: purple;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 3%;
+  font-size: 20px;
+  border-style: inset;
+  text-align: center;
+}
+.setup{
+  background-color: purple;
+  border-style: inset;
+  padding: 10px 10px 10px 10px;
+    width: 50%;
+    margin-left: 10%;
+    font-size: 140%;
+
+}
+.footer{
+margin-top: 18%;
+text-align: center;
+border-style: inset;
+background-color: purple;
+}
+.setupImg img{
+
+height: 300px;
+width: 500px;
+}
