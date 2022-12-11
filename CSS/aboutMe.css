@@ -21,6 +21,7 @@ padding: 10px;
   font-size: 20px;
   border-style: inset;
   text-align: center;
+    position: relative;
 }
 .aboutMe{
   background-color: white;
@@ -33,17 +34,20 @@ padding: 10px;
   border-style: inset;
   float: left;
   margin-left: 16%;
+  position: relative;
 
 }
-.imgMe{
+img{
 
   float: right;
   margin-right: 16%;
-  height: 410px;
+  height: 300px;
+  position: relative;
 }
 .footer{
   margin-top: 42%;
 text-align: center;
 border-style: inset;
 background-color: white;
+  position: relative;
 }
